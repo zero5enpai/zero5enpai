@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrZeroLord
-- 👀 I’m interested in Femboys
+- 👀 I’m interested in femboys
 - 🌱 I’m currently learning IT, computational science
 - 💞️ I’m looking to collaborate with a femboy
 - 📫 How to reach me over Discord, my tag is `Mr.Zer0#0003`
