@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zero5enpai
 - 👀 I’m interested in femboys
 - 🌱 I’m currently learning IT, computational science
-- 💞️ I’m looking to collaborate with a femboy
 - 📫 You can reach to me over Discord, my tag is `Mr.Zer0#0003`
 
 <!---
