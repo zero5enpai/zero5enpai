@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zero5enpai
 - 👀 I’m interested in js
 - 🌱 I’m currently learning IT, computational science
-- 📫 You can reach to me over Discord, my tag is `Mr.Zer0#0003`
+- 📫 You can reach to me over Discord, my tag is `@0x003`
 
 <!---
 MrZeroLord/MrZeroLord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
