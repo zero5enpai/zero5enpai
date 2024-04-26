@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0x003
+- 👋 Hi, I’m `@zero5enpai`
 - 👀 I’m interested in js
 - 🌱 I’m currently studying IT, computational science
 - 📫 You can reach to me over Discord, my tag is `@0x003`
