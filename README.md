@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zero5enpai
+- 👋 Hi, I’m @0x003
 - 👀 I’m interested in js
-- 🌱 I’m currently learning IT, computational science
+- 🌱 I’m currently studying IT, computational science
 - 📫 You can reach to me over Discord, my tag is `@0x003`
 
 <!---
